@@ -3,6 +3,13 @@ Google Images Download
 
 Python Script for 'searching' and 'downloading' hundreds of Google images to the local hard disk!
 
+Running
+    - Edit file "vn_famous_persions.json". This file contains list of person need to download images
+    - Run command:
+    ```
+    python run.py
+    ```
+
 Documentation
 =============
 
