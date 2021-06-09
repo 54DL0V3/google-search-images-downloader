@@ -1,0 +1,808 @@
+1623205346506	geckodriver	INFO	Listening on 127.0.0.1:57041
+1623205346510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJnWAMw"
+1623205347093	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:34163/devtools/browser/7c00f46d-542c-4f37-8805-22ffc799474d
+1623205348793	Marionette	INFO	Listening on port 37535
+1623205348846	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623205380986	Marionette	INFO	Stopped listening on port 37535
+1623205381153	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623205383159	geckodriver	INFO	Listening on 127.0.0.1:60963
+1623205383163	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQZpEsU"
+1623205383749	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:45333/devtools/browser/ca9a76ce-58ee-412a-a76c-64b36efc3059
+1623205385348	Marionette	INFO	Listening on port 37991
+1623205385393	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623205555140	Marionette	INFO	Stopped listening on port 37991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623205555177	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623205557726	geckodriver	INFO	Listening on 127.0.0.1:50365
+1623205557730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCt9kDZ"
+1623205558328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:45215/devtools/browser/d515c4a7-3a82-4a4b-94c6-99b2e0598350
+1623205560106	Marionette	INFO	Listening on port 41223
+1623205560153	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623205854176	geckodriver	INFO	Listening on 127.0.0.1:39155
+1623205854180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMLnfup"
+1623205854767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:43865/devtools/browser/d520155f-004f-4c1c-82ee-672e08dfd8a5
+1623205856702	Marionette	INFO	Listening on port 38951
+1623205856807	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623206119966	geckodriver	INFO	Listening on 127.0.0.1:52909
+1623206119969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV1oGxJ"
+1623206120535	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:35265/devtools/browser/a6e5727d-6709-4ed7-b730-2770bacc3986
+1623206122178	Marionette	INFO	Listening on port 36261
+1623206122292	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623206295883	Marionette	INFO	Stopped listening on port 36261
+1623206295909	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623206299451	geckodriver	INFO	Listening on 127.0.0.1:60651
+1623206299455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV79W9A"
+1623206300016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39489/devtools/browser/3232338e-d18d-464e-bcd7-d282f04b7559
+1623206302018	Marionette	INFO	Listening on port 35573
+1623206302094	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623206407471	geckodriver	INFO	Listening on 127.0.0.1:48759
+1623206407475	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZhw2YD"
+1623206408038	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:42797/devtools/browser/421ae4f1-5ca6-423c-ae7b-623c5776b1cc
+1623206409857	Marionette	INFO	Listening on port 37835
+1623206409896	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623206413643	Marionette	INFO	Stopped listening on port 35573
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623206413958	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1623206512422	Marionette	INFO	Stopped listening on port 37835
+1623206512698	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623206709263	geckodriver	INFO	Listening on 127.0.0.1:58709
+1623206709782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGiTyYj"
+1623206710367	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39899/devtools/browser/2d29613f-4c32-4fb2-9dbe-7b5fe712f955
+1623206711960	Marionette	INFO	Listening on port 37583
+1623206712009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623207241773	geckodriver	INFO	Listening on 127.0.0.1:59009
+1623207241777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW6yiA5"
+1623207242344	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:37073/devtools/browser/734072fb-da03-4ad2-882a-6f9f7bfe4494
+1623207244157	Marionette	INFO	Listening on port 32795
+1623207244225	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1623207479084	geckodriver	INFO	Listening on 127.0.0.1:55383
+1623207479088	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexz1doZ"
+1623207479648	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:36887/devtools/browser/b3083136-8872-4951-9a5b-33f4ec49a4fa
+1623207481327	Marionette	INFO	Listening on port 33281
+1623207481415	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623207499985	geckodriver	INFO	Listening on 127.0.0.1:47387
+1623207499989	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelM0WoN"
+1623207500570	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:32885/devtools/browser/9b9a3de5-18d1-4041-b1d0-8b22e8f578de
+1623207502391	Marionette	INFO	Listening on port 42899
+1623207502412	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623207636826	Marionette	INFO	Stopped listening on port 42899
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623207636846	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1623207638496	Marionette	INFO	Stopped listening on port 37583
+1623207638521	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623207641166	geckodriver	INFO	Listening on 127.0.0.1:39457
+1623207641169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefL3EQS"
+1623207641745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:34975/devtools/browser/718990ee-dde0-4254-a391-140c0972c082
+1623207643313	Marionette	INFO	Listening on port 42983
+1623207643391	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623207731279	geckodriver	INFO	Listening on 127.0.0.1:44921
+1623207731282	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCbvGIE"
+1623207731838	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:43337/devtools/browser/12fd4cec-e606-4bd4-b824-8ebbd0e454b6
+1623207733509	Marionette	INFO	Listening on port 40171
+1623207733610	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623207736128	Marionette	INFO	Stopped listening on port 42983
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623207736445	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623207895793	geckodriver	INFO	Listening on 127.0.0.1:33103
+1623207895797	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledIjGL0"
+1623207896378	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:38589/devtools/browser/9ec0fa6b-fbf1-4b6e-a5f4-93fa797b81ed
+1623207898136	Marionette	INFO	Listening on port 44669
+1623207898222	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623208039262	geckodriver	INFO	Listening on 127.0.0.1:56055
+1623208039267	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileehm1eX"
+1623208039892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:36813/devtools/browser/63fc6d01-d497-44d0-a241-0fd0cb2187a8
+1623208041610	Marionette	INFO	Listening on port 46209
+1623208041700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623208094449	geckodriver	INFO	Listening on 127.0.0.1:45645
+1623208094453	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesUvQSa"
+1623208095011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:42485/devtools/browser/c99b58d2-429c-4ad4-9ad5-6f7d202dfed4
+1623208096731	Marionette	INFO	Listening on port 44909
+1623208096784	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623208102789	Marionette	INFO	Stopped listening on port 46209
+1623208103051	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623208197112	geckodriver	INFO	Listening on 127.0.0.1:34305
+1623208197116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileINlpK7"
+1623208197677	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:43331/devtools/browser/ee8fca4d-362c-4d0d-b8c6-60c08f6747c5
+1623208199279	Marionette	INFO	Listening on port 39321
+1623208199340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623208504804	geckodriver	INFO	Listening on 127.0.0.1:44065
+1623208504808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehckXLt"
+1623208505375	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39583/devtools/browser/64d153a7-15b1-488b-a7e8-7c1e8e0cd122
+1623208507149	Marionette	INFO	Listening on port 46719
+1623208507261	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623208644720	Marionette	INFO	Stopped listening on port 46719
+1623208644743	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+!!! error running onStopped callback: TypeError: callback is not a function
+1623208645438	Marionette	INFO	Stopped listening on port 39321
+1623208645468	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623208647233	geckodriver	INFO	Listening on 127.0.0.1:47567
+1623208647756	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAZU29g"
+1623208648453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:36077/devtools/browser/319fa528-0190-45a2-923d-481e69ae9ccc
+1623208650316	Marionette	INFO	Listening on port 40135
+1623208650382	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+!!! error running onStopped callback: TypeError: callback is not a function
+1623208674974	Marionette	INFO	Stopped listening on port 44909
+1623208674999	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623208724217	geckodriver	INFO	Listening on 127.0.0.1:47561
+1623208724220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCuDecs"
+1623208724800	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:40041/devtools/browser/65cd4db9-f8ce-48dc-96e2-e6aecb41d367
+1623208726481	Marionette	INFO	Listening on port 42155
+1623208726544	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+!!! error running onStopped callback: TypeError: callback is not a function
+1623208835738	Marionette	INFO	Stopped listening on port 40171
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1623208835764	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623208839134	geckodriver	INFO	Listening on 127.0.0.1:47247
+1623208839137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevHPQeK"
+1623208839702	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:35251/devtools/browser/6f03b303-7092-48a1-a1e5-dd480c1f3835
+1623208841337	Marionette	INFO	Listening on port 42351
+1623208841363	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1623209007777	geckodriver	INFO	Listening on 127.0.0.1:41047
+1623209007781	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI6nxn8"
+1623209008482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:44095/devtools/browser/7c530481-fb92-42db-abe7-0d59a53b9ff0
+1623209010314	Marionette	INFO	Listening on port 42489
+1623209010406	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623209279310	geckodriver	INFO	Listening on 127.0.0.1:60311
+1623209279314	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZeVjz3"
+1623209279884	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:37797/devtools/browser/25f6adab-d58f-483a-8fd8-61f8229c71a5
+1623209281546	Marionette	INFO	Listening on port 42243
+1623209281647	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1623209484893	geckodriver	INFO	Listening on 127.0.0.1:57249
+1623209484896	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekimamP"
+1623209485471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:34497/devtools/browser/b6df4ad7-72ed-43e6-8ac0-bf2ba9f712c4
+1623209487124	Marionette	INFO	Listening on port 43739
+1623209487229	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1623209744198	geckodriver	INFO	Listening on 127.0.0.1:52845
+1623209744201	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3ApNWi"
+1623209744752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:45139/devtools/browser/6cc13c20-b566-44ff-909d-4686300e8307
+1623209746562	Marionette	INFO	Listening on port 38567
+1623209746630	Marionette	WARN	TLS certificate errors will be ignored for this session
+!!! error running onStopped callback: TypeError: callback is not a function
+1623210060136	Marionette	INFO	Stopped listening on port 38567
+1623210060186	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623210071749	geckodriver	INFO	Listening on 127.0.0.1:51953
+1623210071753	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileevtF8j"
+1623210072312	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:41581/devtools/browser/ee4692aa-f8a7-499d-b6f2-042254a49965
+1623210074124	Marionette	INFO	Listening on port 39419
+1623210074175	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623211010263	geckodriver	INFO	Listening on 127.0.0.1:47367
+1623211010782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1FbWLO"
+1623211011394	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:35699/devtools/browser/b817f9b9-b31c-437d-a24c-7b28fa563f01
+1623211013117	Marionette	INFO	Listening on port 34641
+1623211013225	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623211313974	geckodriver	INFO	Listening on 127.0.0.1:43485
+1623211313977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Ske7w"
+1623211314561	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:33517/devtools/browser/b4ccf4a6-8f9d-4922-a80f-6b21b1f4f8d3
+1623211316480	Marionette	INFO	Listening on port 35639
+1623211316533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623214095910	geckodriver	INFO	Listening on 127.0.0.1:32935
+1623214096430	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXBfIOD"
+1623214097126	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:41547/devtools/browser/d26d2ed7-335b-4389-a83b-e1f809519b93
+1623214098916	Marionette	INFO	Listening on port 44003
+1623214098962	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623214123499	geckodriver	INFO	Listening on 127.0.0.1:55453
+1623214123503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYVDNQz"
+1623214124055	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:38267/devtools/browser/beb231db-a67a-49de-abd1-bbe2b65b7c8e
+1623214125693	Marionette	INFO	Listening on port 34965
+1623214125738	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623214228740	Marionette	INFO	Stopped listening on port 34965
+!!! error running onStopped callback: TypeError: callback is not a function
+1623214229240	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+1623214313555	geckodriver	INFO	Listening on 127.0.0.1:35361
+1623214313559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeEcWY9"
+1623214314142	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46471/devtools/browser/a764e489-720e-45ae-9366-a20dd11c7ec7
+1623214315992	Marionette	INFO	Listening on port 37853
+1623214316082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623217302495	geckodriver	INFO	Listening on 127.0.0.1:41013
+1623217302499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6fxeUN"
+*** You are running in headless mode.
+1623217303030	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:17863): GLib-GObject-CRITICAL **: 12:41:43.448: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:17879): GLib-GObject-CRITICAL **: 12:41:43.529: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:43685/devtools/browser/79d6e89d-d174-49fc-a7ff-42f5b2ea30de
+1623217304507	Marionette	INFO	Listening on port 45995
+
+(/usr/lib/firefox/firefox:17958): GLib-GObject-CRITICAL **: 12:41:44.555: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623217304627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623217390223	geckodriver	INFO	Listening on 127.0.0.1:60009
+1623217390226	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenE8XHd"
+*** You are running in headless mode.
+1623217390746	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:18107): GLib-GObject-CRITICAL **: 12:43:11.141: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18124): GLib-GObject-CRITICAL **: 12:43:11.237: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:37869/devtools/browser/3adf8fbf-d8cb-4a86-af2c-cbd9723cb031
+1623217392254	Marionette	INFO	Listening on port 45675
+
+(/usr/lib/firefox/firefox:18202): GLib-GObject-CRITICAL **: 12:43:12.303: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623217392355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1623217602523	geckodriver	INFO	Listening on 127.0.0.1:51745
+1623217603035	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK4zZaV"
+*** You are running in headless mode.
+1623217603665	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:18480): GLib-GObject-CRITICAL **: 12:46:44.233: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18497): GLib-GObject-CRITICAL **: 12:46:44.323: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46447/devtools/browser/129d2456-d274-4620-8da5-d6b22092bfa8
+1623217605529	Marionette	INFO	Listening on port 33171
+
+(/usr/lib/firefox/firefox:18568): GLib-GObject-CRITICAL **: 12:46:45.552: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623217605569	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623217632737	geckodriver	INFO	Listening on 127.0.0.1:40087
+1623217632755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVU4Gb3"
+*** You are running in headless mode.
+1623217633683	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:18684): GLib-GObject-CRITICAL **: 12:47:14.652: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18705): GLib-GObject-CRITICAL **: 12:47:15.039: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46477/devtools/browser/44242021-6fc7-4e46-9a67-f3a56c21ac98
+1623217637312	Marionette	INFO	Listening on port 43749
+1623217637408	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:18819): GLib-GObject-CRITICAL **: 12:47:17.413: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623217670171	geckodriver	INFO	Listening on 127.0.0.1:50965
+1623217670675	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledxkp0Q"
+*** You are running in headless mode.
+1623217672294	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:18967): GLib-GObject-CRITICAL **: 12:47:53.303: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:18983): GLib-GObject-CRITICAL **: 12:47:53.519: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46465/devtools/browser/f4c66f63-0dd7-4f42-8ab2-4d334d59b8bb
+1623217676127	Marionette	INFO	Listening on port 37303
+
+(/usr/lib/firefox/firefox:19099): GLib-GObject-CRITICAL **: 12:47:56.310: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623217676331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1623217776607	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623217779216	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623217785028	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623217795158	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623217801386	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623217810320	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623217814765	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1623218083917	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1623218212640	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218219766	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+1623218223233	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218320161	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218322908	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218347378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218349891	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+1623218445679	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218459257	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218462488	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623218476526	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1623219806761	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1623219946874	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623220167121	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623220224416	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623220227685	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1623220950338	geckodriver	INFO	Listening on 127.0.0.1:33145
+1623220950842	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOi1oAK"
+*** You are running in headless mode.
+1623220951353	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:2920): GLib-GObject-CRITICAL **: 13:42:31.787: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:2936): GLib-GObject-CRITICAL **: 13:42:31.906: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39387/devtools/browser/a7c6181c-6814-4a57-8c93-4fc43a074742
+1623220953025	Marionette	INFO	Listening on port 36355
+1623220953064	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3010): GLib-GObject-CRITICAL **: 13:42:33.076: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623221027559	geckodriver	INFO	Listening on 127.0.0.1:48497
+1623221027564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96FMeV"
+*** You are running in headless mode.
+1623221028086	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3127): GLib-GObject-CRITICAL **: 13:43:48.584: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3143): GLib-GObject-CRITICAL **: 13:43:48.706: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:40525/devtools/browser/46fff7f1-6d9e-4e62-b7c4-3fa64ab87989
+1623221029652	Marionette	INFO	Listening on port 35243
+
+(/usr/lib/firefox/firefox:3213): GLib-GObject-CRITICAL **: 13:43:49.690: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623221029700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623221068678	geckodriver	INFO	Listening on 127.0.0.1:35167
+1623221068682	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFrjfOx"
+*** You are running in headless mode.
+1623221069379	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3347): GLib-GObject-CRITICAL **: 13:44:30.036: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3368): GLib-GObject-CRITICAL **: 13:44:30.403: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:39543/devtools/browser/91938e52-7308-45dc-ab58-d8d823b3c5fa
+1623221072240	Marionette	INFO	Listening on port 33275
+
+(/usr/lib/firefox/firefox:3452): GLib-GObject-CRITICAL **: 13:44:32.307: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623221072345	Marionette	WARN	TLS certificate errors will be ignored for this session
+1623221119070	geckodriver	INFO	Listening on 127.0.0.1:41295
+1623221119075	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletkcHMX"
+*** You are running in headless mode.
+1623221119833	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:3585): GLib-GObject-CRITICAL **: 13:45:20.547: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:3601): GLib-GObject-CRITICAL **: 13:45:20.714: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:37689/devtools/browser/83724a88-e9cd-47ef-b252-4afdc036c2db
+1623221122092	Marionette	INFO	Listening on port 44251
+1623221122136	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:3669): GLib-GObject-CRITICAL **: 13:45:22.220: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1623221948057	Marionette	INFO	Stopped listening on port 36355
+!!! error running onStopped callback: TypeError: callback is not a function
+1623221948287	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1623227437395	Marionette	INFO	Stopped listening on port 35243
+!!! error running onStopped callback: TypeError: callback is not a function
+1623227437734	RemoteAgent	ERROR	unable to stop listener: [Exception... "Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]"  nsresult: "0x8000ffff (NS_ERROR_UNEXPECTED)"  location: "JS frame :: chrome://remote/content/cdp/observers/TargetObserver.jsm :: stop :: line 64"  data: no] Stack trace: stop()@TargetObserver.jsm:64
+unwatchForTabs()@TargetList.jsm:70
+unwatchForTargets()@TargetList.jsm:37
+destructor()@TargetList.jsm:109
+close()@RemoteAgent.jsm:136
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623228135104	geckodriver	INFO	Listening on 127.0.0.1:44727
+1623228135111	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAtG3UN"
+*** You are running in headless mode.
+1623228135688	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:22051): GLib-GObject-CRITICAL **: 15:42:16.154: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:22069): GLib-GObject-CRITICAL **: 15:42:16.259: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:42699/devtools/browser/66c41ae7-f39e-4680-b203-473bae2a4336
+1623228137273	Marionette	INFO	Listening on port 37383
+
+(/usr/lib/firefox/firefox:22137): GLib-GObject-CRITICAL **: 15:42:17.311: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623228137335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623229743475	geckodriver	INFO	Listening on 127.0.0.1:59649
+1623229743478	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKjsrwt"
+*** You are running in headless mode.
+1623229744025	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:31482): GLib-GObject-CRITICAL **: 16:09:04.463: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:31499): GLib-GObject-CRITICAL **: 16:09:04.572: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:37177/devtools/browser/9907eac9-babe-4048-a8e0-bcd16890fc1d
+1623229745808	Marionette	INFO	Listening on port 42441
+
+(/usr/lib/firefox/firefox:31580): GLib-GObject-CRITICAL **: 16:09:05.810: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623229745905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623230138456	geckodriver	INFO	Listening on 127.0.0.1:56985
+1623230138473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFF3YmC"
+*** You are running in headless mode.
+1623230139002	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32375): GLib-GObject-CRITICAL **: 16:15:39.404: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32396): GLib-GObject-CRITICAL **: 16:15:39.545: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:37389/devtools/browser/0f91426b-c1ce-4b81-9687-5c02c60002ed
+
+(/usr/lib/firefox/firefox:32459): GLib-GObject-CRITICAL **: 16:15:40.824: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623230140830	Marionette	INFO	Listening on port 41633
+1623230140897	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623230159218	geckodriver	INFO	Listening on 127.0.0.1:35441
+1623230159221	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqtRHzW"
+*** You are running in headless mode.
+1623230159735	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:32555): GLib-GObject-CRITICAL **: 16:16:00.195: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:32572): GLib-GObject-CRITICAL **: 16:16:00.312: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:46855/devtools/browser/db9f732d-49f8-47f5-b7b8-a19915ea8a75
+1623230161338	Marionette	INFO	Listening on port 40703
+
+(/usr/lib/firefox/firefox:32637): GLib-GObject-CRITICAL **: 16:16:01.385: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623230161443	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1623231506914	geckodriver	INFO	Listening on 127.0.0.1:55275
+1623231507414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "--remote-debugging-port" "0" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekyqaI8"
+*** You are running in headless mode.
+1623231508098	Marionette	INFO	Marionette enabled
+
+(/usr/lib/firefox/firefox:7926): GLib-GObject-CRITICAL **: 16:38:28.671: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+
+(/usr/lib/firefox/firefox:7946): GLib-GObject-CRITICAL **: 16:38:28.793: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+DevTools listening on ws://localhost:38581/devtools/browser/35c7580b-ff4e-415c-8fc7-129d3af3fa56
+1623231509861	Marionette	INFO	Listening on port 40973
+
+(/usr/lib/firefox/firefox:8043): GLib-GObject-CRITICAL **: 16:38:29.922: g_object_set: assertion 'G_IS_OBJECT (object)' failed
+1623231509952	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
