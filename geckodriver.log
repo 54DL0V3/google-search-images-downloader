@@ -806,3 +806,1014 @@ DevTools listening on ws://localhost:38581/devtools/browser/35c7580b-ff4e-415c-8
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1627967802191	geckodriver	INFO	Listening on 127.0.0.1:43263
+1627967803195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9QMQ3i"
+*** You are running in headless mode.
+1627967803524	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9QMQ3i/search.json.mozlz4", (void 0)))
+1627967804508	Marionette	INFO	Listening on port 43591
+1627967804616	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627969056425	geckodriver	INFO	Listening on 127.0.0.1:37403
+1627969057429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ02iQK"
+*** You are running in headless mode.
+1627969057754	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZ02iQK/search.json.mozlz4", (void 0)))
+1627969058662	Marionette	INFO	Listening on port 33247
+1627969058746	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627972580324	geckodriver	INFO	Listening on 127.0.0.1:41753
+1627972580326	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8yeN8l"
+*** You are running in headless mode.
+1627972580655	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8yeN8l/search.json.mozlz4", (void 0)))
+1627972581514	Marionette	INFO	Listening on port 36103
+1627972581551	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1627972668367	geckodriver	INFO	Listening on 127.0.0.1:49593
+1627972668369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMwtTwx"
+1627972668775	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMwtTwx/search.json.mozlz4", (void 0)))
+1627972670148	Marionette	INFO	Listening on port 43593
+1627972670184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627972742686	Marionette	INFO	Stopped listening on port 43593
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627972745000	geckodriver	INFO	Listening on 127.0.0.1:41901
+1627972746003	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYTdg9z"
+1627972746432	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYTdg9z/search.json.mozlz4", (void 0)))
+1627972747440	Marionette	INFO	Listening on port 33107
+1627972747522	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627972823417	Marionette	INFO	Stopped listening on port 33107
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627972959651	geckodriver	INFO	Listening on 127.0.0.1:37495
+1627972959654	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCwizHs"
+1627972960079	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCwizHs/search.json.mozlz4", (void 0)))
+1627972961278	Marionette	INFO	Listening on port 43825
+1627972961377	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627972988234	Marionette	INFO	Stopped listening on port 43825
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627973111744	geckodriver	INFO	Listening on 127.0.0.1:34357
+1627973111747	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelzlbdT"
+1627973112180	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelzlbdT/search.json.mozlz4", (void 0)))
+1627973113526	Marionette	INFO	Listening on port 41893
+1627973113565	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627973144284	Marionette	INFO	Stopped listening on port 41893
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627973223068	geckodriver	INFO	Listening on 127.0.0.1:46771
+1627973223071	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileShSUfw"
+1627973223499	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileShSUfw/search.json.mozlz4", (void 0)))
+1627973224450	Marionette	INFO	Listening on port 33475
+1627973224490	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627973256843	Marionette	INFO	Stopped listening on port 33475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627973289025	geckodriver	INFO	Listening on 127.0.0.1:42763
+1627973289028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUCtiAs"
+1627973289457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUCtiAs/search.json.mozlz4", (void 0)))
+1627973290658	Marionette	INFO	Listening on port 32899
+1627973290747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627973369308	geckodriver	INFO	Listening on 127.0.0.1:47487
+1627973369312	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTXJFUz"
+1627973369726	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTXJFUz/search.json.mozlz4", (void 0)))
+1627973371241	Marionette	INFO	Listening on port 39615
+1627973371335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627973529886	Marionette	INFO	Stopped listening on port 32899
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://static.xx.fbcdn.net/rsrc.php/v3/yQ/r/vLtbBJ-NnYi.js?_nc_x=Ij3Wp8lg5Kz, line 15: TypeError: Not in fullscreen mode
+1627973583532	Marionette	INFO	Stopped listening on port 39615
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627975035560	geckodriver	INFO	Listening on 127.0.0.1:49899
+1627975036564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenvdqOU"
+1627975036976	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenvdqOU/search.json.mozlz4", (void 0)))
+1627975038192	Marionette	INFO	Listening on port 44977
+1627975038286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627975049670	Marionette	INFO	Stopped listening on port 44977
+1627975095744	geckodriver	INFO	Listening on 127.0.0.1:41321
+1627975096748	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNN3koG"
+1627975097174	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNN3koG/search.json.mozlz4", (void 0)))
+1627975098440	Marionette	INFO	Listening on port 43587
+1627975098463	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627975444623	geckodriver	INFO	Listening on 127.0.0.1:49247
+1627975444626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLChKPY"
+1627975445028	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLChKPY/search.json.mozlz4", (void 0)))
+1627975446141	Marionette	INFO	Listening on port 39475
+1627975446242	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627975455700	Marionette	INFO	Stopped listening on port 43587
+1627975567629	geckodriver	INFO	Listening on 127.0.0.1:43585
+1627975568633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSVXytU"
+1627975569046	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSVXytU/search.json.mozlz4", (void 0)))
+1627975570112	Marionette	INFO	Listening on port 35109
+1627975570150	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627975804231	Marionette	INFO	Stopped listening on port 39475
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627975805755	Marionette	INFO	Stopped listening on port 35109
+1627975809005	geckodriver	INFO	Listening on 127.0.0.1:50875
+1627975809008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyMkSL7"
+1627975809416	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyMkSL7/search.json.mozlz4", (void 0)))
+1627975810566	Marionette	INFO	Listening on port 33901
+1627975810622	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627976922766	geckodriver	INFO	Listening on 127.0.0.1:33203
+1627976922768	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile34X0gn"
+1627976923213	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile34X0gn/search.json.mozlz4", (void 0)))
+1627976924577	Marionette	INFO	Listening on port 39097
+1627976924691	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627977031754	Marionette	INFO	Stopped listening on port 33901
+1627977043921	geckodriver	INFO	Listening on 127.0.0.1:39353
+1627977043924	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejcrVpw"
+1627977044316	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejcrVpw/search.json.mozlz4", (void 0)))
+1627977045645	Marionette	INFO	Listening on port 42831
+1627977045780	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627979309457	Marionette	INFO	Stopped listening on port 42831
+1627981556328	geckodriver	INFO	Listening on 127.0.0.1:34105
+1627981556331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK86cUL"
+1627981556762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK86cUL/search.json.mozlz4", (void 0)))
+1627981557965	Marionette	INFO	Listening on port 33883
+1627981558053	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1627981852832	geckodriver	INFO	Listening on 127.0.0.1:45527
+1627981852835	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJk2c3M"
+1627981853244	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJk2c3M/search.json.mozlz4", (void 0)))
+1627981854366	Marionette	INFO	Listening on port 41783
+1627981854452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627981861788	Marionette	INFO	Stopped listening on port 33883
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1627981978362	geckodriver	INFO	Listening on 127.0.0.1:58771
+1627981978365	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewVlFRv"
+1627981978765	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewVlFRv/search.json.mozlz4", (void 0)))
+1627981980070	Marionette	INFO	Listening on port 37113
+1627981980184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627981985183	Marionette	INFO	Stopped listening on port 37113
+1627982058481	geckodriver	INFO	Listening on 127.0.0.1:45255
+1627982058484	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCHkfix"
+1627982058908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCHkfix/search.json.mozlz4", (void 0)))
+1627982060128	Marionette	INFO	Listening on port 34013
+1627982060206	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627982121956	geckodriver	INFO	Listening on 127.0.0.1:33655
+1627982121960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilebzWBYD"
+1627982122348	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebzWBYD/search.json.mozlz4", (void 0)))
+1627982123472	Marionette	INFO	Listening on port 38497
+1627982123578	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1627982152203	Marionette	INFO	Stopped listening on port 38497
+1627982155811	geckodriver	INFO	Listening on 127.0.0.1:50287
+1627982155813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiless3UAV"
+1627982156240	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiless3UAV/search.json.mozlz4", (void 0)))
+1627982157614	Marionette	INFO	Listening on port 46633
+1627982157640	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1627982343932	Marionette	INFO	Stopped listening on port 46633
+1627982347643	geckodriver	INFO	Listening on 127.0.0.1:53793
+1627982348647	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileW0gGSQ"
+1627982349067	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW0gGSQ/search.json.mozlz4", (void 0)))
+1627982350319	Marionette	INFO	Listening on port 35291
+1627982350363	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1627982553821	geckodriver	INFO	Listening on 127.0.0.1:59729
+1627982553823	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNro2t6"
+*** You are running in headless mode.
+1627982554144	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNro2t6/search.json.mozlz4", (void 0)))
+1627982555043	Marionette	INFO	Listening on port 44049
+1627982555138	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1627984884230	Marionette	INFO	Stopped listening on port 44049
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x23002E,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x390143,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xAA0006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1628010971399	geckodriver	INFO	Listening on 127.0.0.1:55993
+1628010972400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--no-sandbox" "--headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWq5piX"
+*** You are running in headless mode.
+1628010972719	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWq5piX/search.json.mozlz4", (void 0)))
+1628010973581	Marionette	INFO	Listening on port 43431
+1628010973639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iMn54/yA/l/vi_VN/uQc7ePrylz3.js?_nc_x=Ij3Wp8lg5Kz, line 21: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://static.xx.fbcdn.net/rsrc.php/v3iPj34/yI/l/vi_VN/Nrn8YB0qopO.js?_nc_x=r4l7HnD8AWu, line 31: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585). ()
+1628014082618	Marionette	INFO	Stopped listening on port 43431
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390079,name=PContent::Msg_DestroyBrowsingContextGroup) Closed channel: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

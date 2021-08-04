@@ -26,7 +26,7 @@ with open("vn_famous_persons.json", "r", encoding="UTF-8") as f:
 maxcount = 1000
 
 # chromedriver = 'D:\Downloads\chromedriver_win32\chromedriver.exe'
-firefoxdriver = '/home/jiooum/Downloads/geckodriver-v0.29.1-linux64/geckodriver'
+firefoxdriver = 'geckodriver-v0.29.1-linux64/geckodriver'
 
 
 
