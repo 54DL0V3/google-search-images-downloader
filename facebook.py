@@ -1,6 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import sys
 
@@ -41,11 +43,11 @@ def login_facebook(browser, username, password):
             break
 
 
-def download_from_facebook(search_urls, storage_path="storage", username="no001hoang@gmail.com", password="f001hoang"):
+def download_from_facebook(search_urls, storage_path="storage", username=None, password=None):
     # options = webdriver.ChromeOptions()
     options = webdriver.FirefoxOptions()
     options.add_argument('--no-sandbox')
-    options.add_argument('--headless')
+    # options.add_argument('--headless')
 
     try:
         # browser = webdriver.Chrome(chromedriver, options=options)
@@ -59,6 +61,9 @@ def download_from_facebook(search_urls, storage_path="storage", username="no001h
 
     # for key in vn_famous_persons.keys():
     #     print(">>> {} <<<".format(key))
+
+    count = 0
+
     for search_url in search_urls:
         print(">>> Searching url = {}".format(search_url))
         url_split = search_url.split("/")
@@ -109,16 +114,73 @@ def download_from_facebook(search_urls, storage_path="storage", username="no001h
         print(f'Reached end of page.')
         time.sleep(0.5)
 
-        # Get image elements
-        img_elements = browser.find_elements(By.TAG_NAME, value='img')
-        print(f"Found: {len(img_elements)} image elements")
-        urls = []
-        for img_element in img_elements:
-            src = img_element.get_attribute("src")
-            if src is not None:
-                urls.append(src)
+        # Get a elements
+        print("Finding image a class")
+        a_elements = browser.find_elements(By.TAG_NAME, value="a")
+        a_element_class_dict = dict()
+        largest_class_member = None
+        n_member = 0
+        for a_element in a_elements:
+            a_element_class = a_element.get_attribute('class')
+            if a_element_class not in a_element_class_dict:
+                a_element_class_dict[a_element_class] = 1
+            else:
+                a_element_class_dict[a_element_class] = a_element_class_dict[a_element_class] + 1
 
-        count = 0
+            if largest_class_member is None or a_element_class_dict[a_element_class] > n_member:
+                largest_class_member = a_element_class
+                n_member = a_element_class_dict[a_element_class]
+
+        print(f"Found class: {largest_class_member} - {n_member}")
+        image_a_elements = []
+        for a_element in a_elements:
+            if a_element.get_attribute('class') == largest_class_member:
+                image_a_elements.append(a_element)
+        print(len(image_a_elements))
+
+        # Get image a elements
+        print("Getting images urls")
+        urls = []
+        for image_a_element in image_a_elements:
+            counter = 0
+            click_success = False
+            while counter < 5 and click_success is False:
+                try:
+                    # click on image
+                    image_a_element.click()
+                    click_success = True
+
+                except Exception as e:
+                    print(e)
+                    counter += 1
+                    print(f"Click failed - Retry {counter}")
+                    time.sleep(0.2)
+                    continue
+
+                if click_success:
+                    # get pop-up image link
+                    image_elements = browser.find_elements(By.TAG_NAME, value='img')
+                    for image_element in image_elements:
+                        if image_element.get_attribute("data-visualcompletion") == "media-vc-image":
+                            src = image_element.get_attribute("src")
+                            if src is not None:
+                                urls.append(src)
+                    browser.back()
+                    time.sleep(0.1)
+
+        print(f"Found: {len(urls)} images")
+
+
+        # # Get image elements
+        # img_elements = browser.find_elements(By.TAG_NAME, value='img')
+        # print(f"Found: {len(img_elements)} image elements")
+        # urls = []
+        # for img_element in img_elements:
+        #     src = img_element.get_attribute("src")
+        #     if src is not None:
+        #         urls.append(src)
+
+
         total = len(urls)
         if urls:
             for url in urls:
@@ -164,7 +226,7 @@ def main():
     with open(args.urls, "r", encoding="UTF-8") as f:
         list_urls = json.load(f)["facebook"]
     t0 = time.time()
-    count = download_from_facebook(search_urls=list_urls)
+    count = download_from_facebook(search_urls=list_urls, username=args.email, password=args.password)
     t1 = time.time()
 
     total_time = t1 - t0
